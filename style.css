@@ -114,6 +114,7 @@ html {
 .image__rightTriangle {
   position: absolute;
   top: 71%;
+  cursor: pointer;
 }
 
 .image__leftTriangle {
